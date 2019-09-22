@@ -4,3 +4,5 @@
 *.mp3
 *.docx
 *.tmp
+
+.ipynb_checkpoints/*
