@@ -1,1 +1,2 @@
-Please visit [https://www.alexkras.com/transcribing-audio-file-to-text-with-google-cloud-speech-api-and-python/](https://www.alexkras.com/transcribing-audio-file-to-text-with-google-cloud-speech-api-and-python/) for detailed walk-through.
+Transcriber from Youtube downloader to Indonesian text
+need google cloud platform Speech to text API.
